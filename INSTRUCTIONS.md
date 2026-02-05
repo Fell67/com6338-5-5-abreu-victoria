@@ -1,4 +1,4 @@
-# Assignment 5 - Hamburger Menu
+# Hamburger Menu Assignment
 
 (**NOTE:** View a rendered version of this file in VS Code with `ctrl-shift-v` or `cmd-shift-v`)
 
@@ -50,5 +50,3 @@ When submitting this assignment, please include **BOTH**:
 
   * A link to the assignment's GitHub repository.
   * A link to the assignment's deployed, live site on GitHub Pages.
-
-Website URL: https://fell67.github.io/com6338-5-5-abreu-victoria/
